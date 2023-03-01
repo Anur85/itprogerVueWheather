@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  min-width: 100vh;
+  background: linear-gradient(90deg, #dfb316 0%, #d3540b 100%);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
